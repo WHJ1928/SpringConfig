@@ -64,4 +64,4 @@ pagehelper:
   support-methods-arguments: true
   params: count=countSql
 #展示条数
-pageSize: 20
+pageSize: 15
