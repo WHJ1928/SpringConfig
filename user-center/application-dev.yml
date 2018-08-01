@@ -65,4 +65,3 @@ pagehelper:
   params: count=countSql
 #展示条数
 pageSize: 15
-spring.mvc.view.suffix=.html
